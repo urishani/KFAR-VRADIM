@@ -4,8 +4,7 @@
 EDX: [https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home]<p>
 זהו חומר עבור קורס פייתון למדעי הנתונים בבית הספר הפתוח בכפר ורדים וכולל חומר מהקורס הזה והרחבות שלו.<p>
 אנו כותבים קוד פייתון באתר "רפליט", בו גם ניתן להריץ את הקוד ולנפות שגיאות (דבאגינג - לדבג):<br>
-
-Replut: [https://replit.com]<p>
+Replit: [https://replit.com]<p>
 את מחברות יופיטר באתר ניתן להפעיל באתר "קולב" של גוגל:<br>
 Google colab: [https://colab.research.google.com]<p>
 
